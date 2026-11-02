@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+transactions.csv
+*.zip
+.ipynb_checkpoints/
